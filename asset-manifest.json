@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sib-git.github.io/csb-fvgvd8/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sib-git.github.io/csb-fvgvd8/static/js/main.1c871483.chunk.js",
+    "main.js.map": "https://sib-git.github.io/csb-fvgvd8/static/js/main.1c871483.chunk.js.map",
+    "runtime-main.js": "https://sib-git.github.io/csb-fvgvd8/static/js/runtime-main.44d129ca.js",
+    "runtime-main.js.map": "https://sib-git.github.io/csb-fvgvd8/static/js/runtime-main.44d129ca.js.map",
+    "static/js/2.65b3f1cb.chunk.js": "https://sib-git.github.io/csb-fvgvd8/static/js/2.65b3f1cb.chunk.js",
+    "static/js/2.65b3f1cb.chunk.js.map": "https://sib-git.github.io/csb-fvgvd8/static/js/2.65b3f1cb.chunk.js.map",
+    "index.html": "https://sib-git.github.io/csb-fvgvd8/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sib-git.github.io/csb-fvgvd8/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.65b3f1cb.chunk.js.LICENSE.txt": "https://sib-git.github.io/csb-fvgvd8/static/js/2.65b3f1cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44d129ca.js",
+    "static/js/2.65b3f1cb.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1c871483.chunk.js"
+  ]
+}
